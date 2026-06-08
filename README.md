@@ -62,7 +62,12 @@ tracert google.com
 
  Answers:
 1. Was the ping successful?Yes — received replies from google.com with ~10ms response time.
-2. How many hops were shown? Approximately 10–15 hops shown in tracert.
+2. How many hops were shown? Approximately 30 hops shown in tracert.
 3. What is the purpose of traceroute? Traceroute shows the path data takes from your device to the destination, listing every router (hop) along the way. It's useful for diagnosing where a connection slows down or fails.
+
+
+<img width="1366" height="768" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/ca50ac4a-ff50-4677-aacd-cebf15aa2595" />
+<img width="1366" height="768" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/5191b3d6-f20b-4dad-828e-e509f11f9dd3" />
+
 racert
 - `network_diagram.png` — Visual network diagram
